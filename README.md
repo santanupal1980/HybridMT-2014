@@ -33,3 +33,16 @@ If you use any code cite this paper:
 	year					= {2014},
 	address				= {Goa, India}
 }
+
+@InProceedings{pal-naskar-vangenabith:2015:WMT,
+  author    = {Pal, Santanu  and  Naskar, Sudip  and  van Genabith, Josef},
+  title     = {UdS-Sant: English--German Hybrid Machine Translation System},
+  booktitle = {Proceedings of the Tenth Workshop on Statistical Machine Translation},
+  month     = {September},
+  year      = {2015},
+  address   = {Lisbon, Portugal},
+  publisher = {Association for Computational Linguistics},
+  pages     = {152--157},
+  url       = {http://aclweb.org/anthology/W15-3017}
+}
+
